@@ -1,0 +1,26 @@
+{
+    "method": "transaction",
+    "agent_secret": "admin",
+    "user_code": "483922795",
+    "user_balance": 272.5,
+    "user_total_credit": 264.96,
+    "user_total_debit": 614.4,
+    "game_type": "slot",
+    "slot": {
+        "provider_code": "PGSOFT",
+        "game_code": "fortune-mouse",
+        "round_id": "fa1635be702b845a",
+        "type": "BASE",
+        "bet": 5,
+        "win": 0,
+        "txn_id": "b5e1667f-be68-4181-b632-c0db6426d585",
+        "txn_type": "debit_credit",
+        "is_buy": false,
+        "is_call": false,
+        "user_before_balance": 272.5,
+        "user_after_balance": 267.5,
+        "agent_before_balance": 100,
+        "agent_after_balance": 100,
+        "created_at": "2025-07-23T16:07:43.435Z"
+    }
+}

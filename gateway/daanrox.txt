@@ -1,0 +1,142 @@
+RECEBIDO: Array
+(
+    [transaction_id] => f12dfb27e540739819eeed558a4c99
+    [status] => PENDING
+    [amount] => 10
+    [type] => Deposit
+)
+
+RECEBIDO: Array
+(
+    [transaction_id] => 0b6efbf113492dbf8313c88ebfab07
+    [status] => PENDING
+    [amount] => 5
+    [type] => Deposit
+)
+
+RECEBIDO: Array
+(
+    [transaction_id] => bed2bfb2b541288f0b33b94ebfba3e
+    [status] => PENDING
+    [amount] => 10
+    [type] => Deposit
+)
+
+RECEBIDO: Array
+(
+    [transaction_id] => bed2bfb2b541288f0b33b94ebfba3e
+    [status] => COMPLETED
+    [amount] => 10.00
+    [fee] => 0.8
+    [net_amount] => 9.2
+)
+
+RECEBIDO: Array
+(
+    [transaction_id] => adaf02c6e14929950d5a299806ca11
+    [status] => PENDING
+    [amount] => 10
+    [type] => Deposit
+)
+
+RECEBIDO: Array
+(
+    [transaction_id] => adaf02c6e14929950d5a299806ca11
+    [status] => COMPLETED
+    [amount] => 10.00
+    [fee] => 0.8
+    [net_amount] => 9.2
+)
+
+RECEBIDO: Array
+(
+    [transaction_id] => 9ce35f00244dca8fb114cd4a8a8493
+    [status] => PENDING
+    [amount] => 5
+    [type] => Deposit
+)
+
+RECEBIDO: Array
+(
+    [transaction_id] => 9ce35f00244dca8fb114cd4a8a8493
+    [status] => COMPLETED
+    [amount] => 5.00
+    [fee] => 0.7
+    [net_amount] => 4.3
+)
+
+RECEBIDO: Array
+(
+    [transaction_id] => 62b027cb37434387c89ade6d8e7ac3
+    [status] => PENDING
+    [amount] => 5
+    [type] => Deposit
+)
+
+RECEBIDO: Array
+(
+    [transaction_id] => 62b027cb37434387c89ade6d8e7ac3
+    [status] => COMPLETED
+    [amount] => 5.00
+    [fee] => 0.7
+    [net_amount] => 4.3
+)
+
+RECEBIDO: Array
+(
+    [transaction_id] => 38c318a9e840cb910cfe1973ac22c9
+    [status] => PENDING
+    [amount] => 5
+    [type] => Deposit
+)
+
+RECEBIDO: Array
+(
+    [transaction_id] => 16cc3e71ac4c0a8ca6919f823de641
+    [status] => PENDING
+    [amount] => 100
+    [type] => Deposit
+)
+
+RECEBIDO: Array
+(
+    [transaction_id] => 65bc56f6d243349a8eebe59a16c370
+    [status] => PENDING
+    [amount] => 5
+    [type] => Deposit
+)
+
+RECEBIDO: Array
+(
+    [transaction_id] => 65bc56f6d243349a8eebe59a16c370
+    [status] => COMPLETED
+    [amount] => 5.00
+    [fee] => 0.7
+    [net_amount] => 4.3
+)
+
+RECEBIDO: Array
+(
+    [transaction_id] => 8ba49acfc64a3baf98d8597d74f9a6
+    [status] => PENDING
+    [amount] => 5
+    [type] => Deposit
+)
+
+RECEBIDO: Array
+(
+    [transaction_id] => 0dbbb4b8f844caa893c27c342f0ddc
+    [status] => PENDING
+    [amount] => 5
+    [type] => Deposit
+)
+
+RECEBIDO: Array
+(
+    [transaction_id] => 0dbbb4b8f844caa893c27c342f0ddc
+    [status] => COMPLETED
+    [amount] => 5.00
+    [fee] => 0.7
+    [net_amount] => 4.3
+)
+

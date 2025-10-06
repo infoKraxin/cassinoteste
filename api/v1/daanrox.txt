@@ -1,0 +1,210 @@
+ENTROU AQUI: gollion
+TOKEN: Array
+(
+    [message] => Authentication successful.
+    [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IlJhcmlzb24gZGEgU2lsdmEgU29hcmVzIiwiZW1haWwiOiJzb2FyZXNyYXJpc29uQGdtYWlsLmNvbSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzQ5MDg0MTU3LCJleHAiOjE3NDkwODc3NTd9.5R4tjzbjf5I46YHwjcAiR2H3EyUHvT8qJB7FSJ3UaiM
+    [user] => Array
+        (
+            [id] => 1
+            [name] => Rarison da Silva Soares
+            [email] => soaresrarison@gmail.com
+            [client_id] => rarisondasilvasoares_IE3BAW0B
+        )
+
+)
+
+ENTROU AQUI: gollion
+TOKEN: Array
+(
+    [message] => Authentication successful.
+    [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IlJhcmlzb24gZGEgU2lsdmEgU29hcmVzIiwiZW1haWwiOiJzb2FyZXNyYXJpc29uQGdtYWlsLmNvbSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzQ5MDg0NDcyLCJleHAiOjE3NDkwODgwNzJ9.Or-zEHC8LLYv9oNVhPVuz4DgSy9A0wd7ZqCxfDpQ-iQ
+    [user] => Array
+        (
+            [id] => 1
+            [name] => Rarison da Silva Soares
+            [email] => soaresrarison@gmail.com
+            [client_id] => rarisondasilvasoares_IE3BAW0B
+        )
+
+)
+
+ENTROU AQUI: gollion
+TOKEN: Array
+(
+    [message] => Authentication successful.
+    [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IlJhcmlzb24gZGEgU2lsdmEgU29hcmVzIiwiZW1haWwiOiJzb2FyZXNyYXJpc29uQGdtYWlsLmNvbSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzQ5MDg0OTAzLCJleHAiOjE3NDkwODg1MDN9.r_lkE33oBvCS3cvMr2lmI5sF3Y9Eh5tszoCcHar9l3Y
+    [user] => Array
+        (
+            [id] => 1
+            [name] => Rarison da Silva Soares
+            [email] => soaresrarison@gmail.com
+            [client_id] => rarisondasilvasoares_IE3BAW0B
+        )
+
+)
+
+ENTROU AQUI: gollion
+TOKEN: Array
+(
+    [message] => Authentication successful.
+    [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IlJhcmlzb24gZGEgU2lsdmEgU29hcmVzIiwiZW1haWwiOiJzb2FyZXNyYXJpc29uQGdtYWlsLmNvbSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzQ5MTQ4MDkwLCJleHAiOjE3NDkxNTE2OTB9.PGefr8Cvv80erwyY_0u4nKjHYe8V0_gfxe4s868s6mU
+    [user] => Array
+        (
+            [id] => 1
+            [name] => Rarison da Silva Soares
+            [email] => soaresrarison@gmail.com
+            [client_id] => rarisondasilvasoares_IE3BAW0B
+        )
+
+)
+
+ENTROU AQUI: gollion
+TOKEN: Array
+(
+    [message] => Authentication successful.
+    [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IlJhcmlzb24gZGEgU2lsdmEgU29hcmVzIiwiZW1haWwiOiJzb2FyZXNyYXJpc29uQGdtYWlsLmNvbSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzQ5MTYxMzAzLCJleHAiOjE3NDkxNjQ5MDN9.1_zKoeJtAUF1RbM6j9cw88_Jg676IL0n4y4bh_DywTY
+    [user] => Array
+        (
+            [id] => 1
+            [name] => Rarison da Silva Soares
+            [email] => soaresrarison@gmail.com
+            [client_id] => rarisondasilvasoares_IE3BAW0B
+        )
+
+)
+
+ENTROU AQUI: gollion
+TOKEN: Array
+(
+    [message] => Authentication successful.
+    [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IlJhcmlzb24gZGEgU2lsdmEgU29hcmVzIiwiZW1haWwiOiJzb2FyZXNyYXJpc29uQGdtYWlsLmNvbSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzQ5MTYyMDgxLCJleHAiOjE3NDkxNjU2ODF9.ROubE7gSRyZRgQR6kq60TVOuSodh2AQuGUiWTBqqtMI
+    [user] => Array
+        (
+            [id] => 1
+            [name] => Rarison da Silva Soares
+            [email] => soaresrarison@gmail.com
+            [client_id] => rarisondasilvasoares_IE3BAW0B
+        )
+
+)
+
+ENTROU AQUI: gollion
+TOKEN: Array
+(
+    [message] => Authentication successful.
+    [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IlJhcmlzb24gZGEgU2lsdmEgU29hcmVzIiwiZW1haWwiOiJzb2FyZXNyYXJpc29uQGdtYWlsLmNvbSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzQ5NDAxNjQyLCJleHAiOjE3NDk0MDUyNDJ9.tp_lSe12PSRDKPYZE0vMyQt5EOi9-kJKTsuTH4HAosI
+    [user] => Array
+        (
+            [id] => 1
+            [name] => Rarison da Silva Soares
+            [email] => soaresrarison@gmail.com
+            [client_id] => rarisondasilvasoares_IE3BAW0B
+        )
+
+)
+
+ENTROU AQUI: gollion
+TOKEN: Array
+(
+    [message] => Authentication successful.
+    [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IlJhcmlzb24gZGEgU2lsdmEgU29hcmVzIiwiZW1haWwiOiJzb2FyZXNyYXJpc29uQGdtYWlsLmNvbSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzQ5NDA3MTMwLCJleHAiOjE3NDk0MTA3MzB9.38YXzsj_8gqsbl-X01VmuotxT1q6h8BT-1mDEOE3IJc
+    [user] => Array
+        (
+            [id] => 1
+            [name] => Rarison da Silva Soares
+            [email] => soaresrarison@gmail.com
+            [client_id] => rarisondasilvasoares_IE3BAW0B
+        )
+
+)
+
+ENTROU AQUI: gollion
+TOKEN: Array
+(
+    [message] => Authentication successful.
+    [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IlJhcmlzb24gZGEgU2lsdmEgU29hcmVzIiwiZW1haWwiOiJzb2FyZXNyYXJpc29uQGdtYWlsLmNvbSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzQ5NDg3MjMzLCJleHAiOjE3NDk0OTA4MzN9.ck7RVBK3IHqmrTwIgWyoNgsYE7Mmykup7M58ChAMjxQ
+    [user] => Array
+        (
+            [id] => 1
+            [name] => Rarison da Silva Soares
+            [email] => soaresrarison@gmail.com
+            [client_id] => rarisondasilvasoares_IE3BAW0B
+        )
+
+)
+
+ENTROU AQUI: gollion
+TOKEN: Array
+(
+    [message] => Authentication successful.
+    [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IlJhcmlzb24gZGEgU2lsdmEgU29hcmVzIiwiZW1haWwiOiJzb2FyZXNyYXJpc29uQGdtYWlsLmNvbSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzQ5NTczMjQwLCJleHAiOjE3NDk1NzY4NDB9.Xor7rguAUjEzg_ZFgVoOunUIlyB4tr2ngo2FMuqo-so
+    [user] => Array
+        (
+            [id] => 1
+            [name] => Rarison da Silva Soares
+            [email] => soaresrarison@gmail.com
+            [client_id] => rarisondasilvasoares_IE3BAW0B
+        )
+
+)
+
+ENTROU AQUI: gollion
+TOKEN: Array
+(
+    [message] => Authentication successful.
+    [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IlJhcmlzb24gZGEgU2lsdmEgU29hcmVzIiwiZW1haWwiOiJzb2FyZXNyYXJpc29uQGdtYWlsLmNvbSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzQ5NTc0Mzk3LCJleHAiOjE3NDk1Nzc5OTd9.3Z0maFushHBdFJbJVtXHz0i4tpbU-MYUXCdoGtkqHlA
+    [user] => Array
+        (
+            [id] => 1
+            [name] => Rarison da Silva Soares
+            [email] => soaresrarison@gmail.com
+            [client_id] => rarisondasilvasoares_IE3BAW0B
+        )
+
+)
+
+ENTROU AQUI: gollion
+TOKEN: Array
+(
+    [message] => Authentication successful.
+    [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IlJhcmlzb24gZGEgU2lsdmEgU29hcmVzIiwiZW1haWwiOiJzb2FyZXNyYXJpc29uQGdtYWlsLmNvbSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzQ5NTg4NzAxLCJleHAiOjE3NDk1OTIzMDF9.iq2MO6fWBCpRbJUBezp7sxIBThv0dwUD_7uE_pbd_pI
+    [user] => Array
+        (
+            [id] => 1
+            [name] => Rarison da Silva Soares
+            [email] => soaresrarison@gmail.com
+            [client_id] => rarisondasilvasoares_IE3BAW0B
+        )
+
+)
+
+ENTROU AQUI: gollion
+TOKEN: Array
+(
+    [message] => Authentication successful.
+    [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IlJhcmlzb24gZGEgU2lsdmEgU29hcmVzIiwiZW1haWwiOiJzb2FyZXNyYXJpc29uQGdtYWlsLmNvbSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzQ5NjEzNzMwLCJleHAiOjE3NDk2MTczMzB9.b0YMCSgCNGVSgWYRrJBKK3b-smWORVaSD3-okGcsrvE
+    [user] => Array
+        (
+            [id] => 1
+            [name] => Rarison da Silva Soares
+            [email] => soaresrarison@gmail.com
+            [client_id] => rarisondasilvasoares_IE3BAW0B
+        )
+
+)
+
+ENTROU AQUI: gollion
+TOKEN: Array
+(
+    [message] => Authentication successful.
+    [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IlJhcmlzb24gZGEgU2lsdmEgU29hcmVzIiwiZW1haWwiOiJzb2FyZXNyYXJpc29uQGdtYWlsLmNvbSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzQ5NjgxOTE0LCJleHAiOjE3NDk2ODU1MTR9.ejUWVW1vkk0QyWy2yN66ZeDeF8p39gKp-VzWo80o8oo
+    [user] => Array
+        (
+            [id] => 1
+            [name] => Rarison da Silva Soares
+            [email] => soaresrarison@gmail.com
+            [client_id] => rarisondasilvasoares_IE3BAW0B
+        )
+
+)
+
